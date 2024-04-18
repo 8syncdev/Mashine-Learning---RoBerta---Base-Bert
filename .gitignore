@@ -1,9 +1,10 @@
 /venv*
 venv*
+*venv*
 /data
 data
 /*.csv
 *.csv
 /lightning_logs
 /*.pt
-*.pt
+*.pt*
